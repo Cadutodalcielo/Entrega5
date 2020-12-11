@@ -29,7 +29,7 @@ def home():
     '''
     Inicio
     '''
-    return "<h1>Probando pagina</h1>"
+    return "<h1>Probando pagina.</h1>"
 
 #Esta consulta incluye la consulta 1 y 5
 @app.route("/messages", methods =['GET'])
