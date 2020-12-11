@@ -9,9 +9,9 @@
 
 Para el correcto uso, primero en la terminal debe (ubicado en la carpeta):
 
-- correr 'pipenv shell'
-- correr 'pipenv install'
-- correr 'python main.py'
+-  correr 'pipenv shell'
+-  correr 'pipenv install'
+-  correr 'python main.py'
 
 En ese momento se podrá realizar consultas a la API y esta funcionará.
 
